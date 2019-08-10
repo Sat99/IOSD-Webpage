@@ -38,6 +38,16 @@ body
 
 
 /*Global Styling*/
+.w3ls_banner_txt p {
+    color: #ccc;
+    text-transform: capitalize;
+}
+@media(max-width:768px) {
+
+.w3ls_banner_txt p {
+    font-size: 15px;
+}
+}
 
 body {
     padding: 0;
