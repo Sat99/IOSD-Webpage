@@ -4531,17 +4531,15 @@ footer p {
     color: #ef233c;
 }
 
-.above{
+/* .above{
     height: 180px;
     width: 100px;
      position: absolute; 
-    /* background:red; */
-    /* align-content: center; */
     top:30%;
     left:30%;
     z-index:9999;
    transform:translate(-50%,-50%);  
-}
+} */
 
 
 /*-------------------------------*/
